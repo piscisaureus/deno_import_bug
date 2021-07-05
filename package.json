@@ -1,0 +1,20 @@
+{
+  "name": "deno_import_bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piscisaureus/deno_import_bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piscisaureus/deno_import_bug/issues"
+  },
+  "homepage": "https://github.com/piscisaureus/deno_import_bug#readme"
+}
